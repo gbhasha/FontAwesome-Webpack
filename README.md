@@ -8,6 +8,10 @@ Based on font-awesome-webpack (less) by Gowrav Shekar (@gowravshekar).
 Usage
 -----
 
+```bash
+$ npm i FontAwesome-webpack && font-awsome
+```
+
 To properly load font-awesome fonts, you need to configure loaders in your `webpack.config.js`. Example:
 
 ``` javascript
