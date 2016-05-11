@@ -29,7 +29,7 @@
     "style-loader": "~0.13.1"
   },
   "peerDependencies": {
-    "font-awesome": ">=4.6.1"
+    "font-awesome": ">=4.6.x"
   },
   "readme": "",
   "readmeFilename": "README.md",

@@ -9,7 +9,7 @@ Usage
 -----
 
 ```bash
-$ npm i FontAwesome-webpack && font-awsome
+$ npm i FontAwesome-webpack font-awesome
 ```
 
 To properly load font-awesome fonts, you need to configure loaders in your `webpack.config.js`. Example:
