@@ -20,7 +20,7 @@ module.exports = function(content) {
     var start =
             "@import          \"~font-awesome/scss/_variables.scss\";\n"
             + "$fa-font-path: \"~font-awesome/fonts/\";\n"
-            + "@import          \"./font-awesome.config.scss\";\n";
+            + "@import        \"./font-awesome.config.scss\";\n";
     source = start + styles.filter(function(style) {
         return config.styles[style];
     }).map(function(style) {
